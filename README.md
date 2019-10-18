@@ -1,2 +1,4 @@
 # GloballyConsistentRules
-Implementation of algorithms from the paper "Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation" by Cynthia Rudin and Yaron Shaposhnik  https://ssrn.com/abstract=3395422
+Implementation of algorithms from the paper _Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation_ by Cynthia Rudin and Yaron Shaposhnik  
+
+SSRN link: https://ssrn.com/abstract=3395422
